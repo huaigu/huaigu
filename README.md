@@ -2,11 +2,9 @@
 
 <!--
 **huaigu/huaigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on web3 projects.
 - 🌱 I’m currently learning solidity, rust.
 - 🤔 I’m looking for help with UI/UX
 - ⚡ Fun fact: a full stack developer with 10 years exp who should be retired
--->
