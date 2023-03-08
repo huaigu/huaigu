@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning solidity, rust.
 - 🤔 I’m looking for help with UI/UX
 - ⚡ Fun fact: a full stack developer with 10 years exp who should be retired
+
+
+[![bojack's GitHub | Stats](https://stats.quine.sh/bojack/github?theme=light)](https://quine.sh)
