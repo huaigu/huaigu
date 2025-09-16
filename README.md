@@ -4,10 +4,7 @@
 **huaigu/huaigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on web3 projects.
-- 🌱 I’m currently learning solidity, rust.
-- 🤔 I’m looking for help with UI/UX
-- ⚡ Fun fact: a full stack developer with 10 years exp who should be retired
-
-
-[![bojack's GitHub | Stats](https://stats.quine.sh/bojack/github?theme=light)](https://quine.sh)
+- 🔭 I’m currently working on a GameFi platform and applying ZK/FHE technologies.
+- 🌱 I’m currently exploring new web3 frameworks and deepening my ZK/FHE practice.
+- 🤔 I’m looking for help with enhancing UI/UX for decentralized apps.
+- ⚡ Fun fact: Web3 full stack dev, proficient in Solidity, Monad Chinese Online Hackathon Top 1, Zama Developer Program winner, and a vibe coding addict!
