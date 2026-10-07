@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="260" viewBox="0 0 1120 260" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">huaigu — AI, made useful.</title>
+  <desc id="desc">AI products, agent workflows, and full-stack engineering. A light forest-green banner with a connected agent graph and a geometric block.</desc>
+  <rect x="1" y="1" width="1118" height="258" rx="18" fill="#F4F7EF" stroke="#D9E3D1" stroke-width="2"/>
+  <path d="M728 1V259M808 1V259M888 1V259M968 1V259M1048 1V259M728 60H1119M728 140H1119M728 220H1119" stroke="#E7EDDF"/>
+  <rect x="35" y="30" width="40" height="40" rx="11" fill="#315B40"/>
+  <path d="M47.5 40.6V59.4M47.5 51.9C47.5 44.4 60 44.4 60 51.9V59.4" stroke="#FAFBF7" stroke-width="3.75" stroke-linecap="round"/>
+  <path d="M64.4 36.3L65.6 39.4L68.8 40.6L65.6 41.9L64.4 45L63.1 41.9L60 40.6L63.1 39.4Z" fill="#C7E994"/>
+  <text x="88" y="57" fill="#45614B" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600">huaigu / Alex Wang</text>
+  <text x="34" y="153" fill="#294B35" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700" letter-spacing="-2.3">AI, made useful.</text>
+  <text x="38" y="192" fill="#5C705D" font-family="Arial,Helvetica,sans-serif" font-size="21">Agents, workflows, and the software around them.</text>
+  <text x="38" y="230" fill="#70846B" font-family="monospace" font-size="10" letter-spacing="2.1">FULL-STACK ROOTS · WEB3 EXPERIENCE</text>
+  <g stroke="#99B48C" stroke-width="1.6">
+    <path d="M784 98L822 130L785 175M784 98L784 175M822 130L865 91M822 130L868 178M865 91L868 178"/>
+    <path d="M822 130H935" stroke-dasharray="4 6"/>
+    <circle cx="784" cy="98" r="7" fill="#F4F7EF"/>
+    <circle cx="785" cy="175" r="7" fill="#F4F7EF"/>
+    <circle cx="865" cy="91" r="7" fill="#F4F7EF"/>
+    <circle cx="868" cy="178" r="7" fill="#F4F7EF"/>
+  </g>
+  <circle cx="822" cy="130" r="14" fill="#315B40"/>
+  <circle cx="822" cy="130" r="4" fill="#C7E994"/>
+  <path d="M982 78L1034 108V170L982 200L930 170V108L982 78Z" fill="#E9F0DF" stroke="#6A8C64" stroke-width="2"/>
+  <path d="M930 108L982 138L1034 108M982 138V200" stroke="#6A8C64" stroke-width="2"/>
+  <path d="M982 113L989 131L1007 138L989 145L982 163L975 145L957 138L975 131Z" fill="#315B40"/>
+  <text x="785" y="229" fill="#70846B" font-family="monospace" font-size="10" letter-spacing="1.6">IDEAS → SOFTWARE</text>
+</svg>
