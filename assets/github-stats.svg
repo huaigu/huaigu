@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="350" viewBox="0 0 1120 350" role="img" aria-labelledby="title desc">
+<title id="title">huaigu — GitHub snapshot</title>
+<desc id="desc">Snapshot on 7 October 2026. 194 public repositories including forks. 41 public non-fork repositories received 19 stars and 9 forks. Primary language: TypeScript 17, JavaScript 7, Shell 4, Vue 3, Solidity 2, Python 1, HTML 1, Dockerfile 1. 5 repositories have no specified language.</desc>
+<rect x="1" y="1" width="1118" height="348" rx="18" fill="#FFFFFF" stroke="#D9E3D1" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<circle cx="37" cy="33" r="4" fill="#608C4A"/>
+<text font-family="Arial,Helvetica,sans-serif" x="51" y="39" fill="#315B40" font-size="17" font-weight="700">PUBLIC GITHUB SNAPSHOT</text>
+<text font-family="Arial,Helvetica,sans-serif" x="1084" y="39" text-anchor="end" fill="#65715F" font-size="14">07 OCT 2026</text>
+
+<text font-family="Arial,Helvetica,sans-serif" x="35" y="116" fill="#294B35" font-size="56" font-weight="700" letter-spacing="-2">194</text>
+<text font-family="Arial,Helvetica,sans-serif" x="37" y="144" fill="#28372E" font-size="18" font-weight="600">Public repos</text>
+<text font-family="Arial,Helvetica,sans-serif" x="37" y="165" fill="#65715F" font-size="14">including forks</text>
+<path d="M287 66V164" stroke="#E8ECE5"/>
+<text font-family="Arial,Helvetica,sans-serif" x="305" y="116" fill="#294B35" font-size="56" font-weight="700" letter-spacing="-2">41</text>
+<text font-family="Arial,Helvetica,sans-serif" x="307" y="144" fill="#28372E" font-size="18" font-weight="600">Non-fork repos</text>
+<text font-family="Arial,Helvetica,sans-serif" x="307" y="165" fill="#65715F" font-size="14">public only</text>
+<path d="M557 66V164" stroke="#E8ECE5"/>
+<text font-family="Arial,Helvetica,sans-serif" x="575" y="116" fill="#294B35" font-size="56" font-weight="700" letter-spacing="-2">19</text>
+<text font-family="Arial,Helvetica,sans-serif" x="577" y="144" fill="#28372E" font-size="18" font-weight="600">Stars received</text>
+<text font-family="Arial,Helvetica,sans-serif" x="577" y="165" fill="#65715F" font-size="14">on non-fork repos</text>
+<path d="M827 66V164" stroke="#E8ECE5"/>
+<text font-family="Arial,Helvetica,sans-serif" x="845" y="116" fill="#294B35" font-size="56" font-weight="700" letter-spacing="-2">9</text>
+<text font-family="Arial,Helvetica,sans-serif" x="847" y="144" fill="#28372E" font-size="18" font-weight="600">Forks received</text>
+<text font-family="Arial,Helvetica,sans-serif" x="847" y="165" fill="#65715F" font-size="14">from non-fork repos</text>
+<path d="M36 185H1084" stroke="#E8ECE5"/>
+<text font-family="Arial,Helvetica,sans-serif" x="36" y="214" fill="#354F3C" font-size="16" font-weight="600">Primary language · by repository</text>
+<text font-family="Arial,Helvetica,sans-serif" x="1084" y="214" text-anchor="end" fill="#65715F" font-size="14">8 languages / 36 classified repos</text>
+<defs><clipPath id="bar"><rect x="36" y="231" width="1048" height="12" rx="6"/></clipPath></defs><g clip-path="url(#bar)">
+<rect x="36.00" y="231" width="494.89" height="12" fill="#3B7353"/>
+<rect x="530.89" y="231" width="203.78" height="12" fill="#B5BC5C"/>
+<rect x="734.67" y="231" width="116.44" height="12" fill="#91B799"/>
+<rect x="851.11" y="231" width="87.33" height="12" fill="#547D83"/>
+<rect x="938.44" y="231" width="58.22" height="12" fill="#8B82A8"/>
+<rect x="996.67" y="231" width="87.33" height="12" fill="#C1CEC0"/>
+</g>
+<circle cx="40" cy="271" r="4" fill="#3B7353"/><text font-family="Arial,Helvetica,sans-serif" x="52" y="277" fill="#354F3C" font-size="15">TypeScript 17</text>
+<circle cx="237" cy="271" r="4" fill="#B5BC5C"/><text font-family="Arial,Helvetica,sans-serif" x="249" y="277" fill="#354F3C" font-size="15">JavaScript 7</text>
+<circle cx="440" cy="271" r="4" fill="#91B799"/><text font-family="Arial,Helvetica,sans-serif" x="452" y="277" fill="#354F3C" font-size="15">Shell 4</text>
+<circle cx="589" cy="271" r="4" fill="#547D83"/><text font-family="Arial,Helvetica,sans-serif" x="601" y="277" fill="#354F3C" font-size="15">Vue 3</text>
+<circle cx="722" cy="271" r="4" fill="#8B82A8"/><text font-family="Arial,Helvetica,sans-serif" x="734" y="277" fill="#354F3C" font-size="15">Solidity 2</text>
+<circle cx="903" cy="271" r="4" fill="#C1CEC0"/><text font-family="Arial,Helvetica,sans-serif" x="915" y="277" fill="#354F3C" font-size="15">Other 3</text>
+<text font-family="Arial,Helvetica,sans-serif" x="36" y="309" fill="#65715F" font-size="13">Non-fork repos only. Other: Python, HTML, Dockerfile (1 each). 5 repos have no specified language.</text>
+<text font-family="Arial,Helvetica,sans-serif" x="36" y="331" fill="#65715F" font-size="12">Source: GitHub public repository metadata · Includes archived repositories.</text></g></svg>
